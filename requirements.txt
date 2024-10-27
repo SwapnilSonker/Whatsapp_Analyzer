@@ -1,0 +1,11 @@
+Langchain
+Langchain_community
+Langchain_core
+python-dotenv
+streamlit
+sse_starlette
+bs4
+pypdf
+huggingface_hub
+Langchain-huggingface
+transformers
