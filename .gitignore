@@ -1,3 +1,3 @@
 .env
-/agent
-simplerag.py
+/agent/agent.ipynb
+simplerag.ipynb

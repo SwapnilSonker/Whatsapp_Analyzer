@@ -9,3 +9,8 @@ pypdf
 huggingface_hub
 Langchain-huggingface
 transformers
+
+
+wikipedia 
+arxiv
+langchain_hub
